@@ -1,1 +1,1 @@
-In this folder, there are my solutions from the second part (week 02) of the Data Analysis with Python 2021 course.
+In this folder, there are my solutions from the second part (week 02) of the "Data Analysis with Python 2021" course.
