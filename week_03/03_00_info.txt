@@ -1,0 +1,1 @@
+In this folder, there are my solutions from the third part (week 03) of the "Data Analysis with Python 2021" course.
